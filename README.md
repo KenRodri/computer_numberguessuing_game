@@ -1,1 +1,1 @@
-computer do think think to gues your number. MAGIK!
+computer do think think to guess your number. MAGIK!
