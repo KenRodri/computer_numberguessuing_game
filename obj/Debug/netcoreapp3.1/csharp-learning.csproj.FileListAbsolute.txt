@@ -1,0 +1,13 @@
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.csprojAssemblyReference.cache
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.AssemblyInfoInputs.cache
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.AssemblyInfo.cs
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.csproj.CoreCompileInputs.cache
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.exe
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.deps.json
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.runtimeconfig.json
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.runtimeconfig.dev.json
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.dll
+D:\projects\csharp-learning\bin\Debug\netcoreapp3.1\csharp-learning.pdb
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.dll
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.pdb
+D:\projects\csharp-learning\obj\Debug\netcoreapp3.1\csharp-learning.genruntimeconfig.cache
