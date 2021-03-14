@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace csharp_learning
+namespace compNumGuess
 {
     class Program
     {
