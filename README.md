@@ -1,0 +1,1 @@
+computer do think think to gues your number. MAGIK!
